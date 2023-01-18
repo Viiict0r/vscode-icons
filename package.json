@@ -2,7 +2,7 @@
   "name": "icons",
   "displayName": "Icons (Nest.js custom pack)",
   "description": "Fork: Icons for Visual Studio Code. (Nestjs icon pack)",
-  "version": "3.6.4",
+  "version": "3.6.5",
   "publisher": "Victor H.",
   "main": "./out/extension.js",
   "engines": {
@@ -12,7 +12,7 @@
     "onIdentity:identity"
   ],
   "scripts": {
-    "build": "tsc && node ./out/extension.js",
+    "build": "rm -rf ./out && tsc && node ./out/extension.js",
     "package": "vsce package",
     "lint": "eslint . --ext .ts --fix"
   },
