@@ -1,9 +1,9 @@
 {
   "name": "icons",
-  "displayName": "Icons",
-  "description": "Icons for Visual Studio Code.",
-  "version": "3.6.2",
-  "publisher": "tal7aouy",
+  "displayName": "Icons (Nest.js custom pack)",
+  "description": "Fork: Icons for Visual Studio Code. (Nestjs icon pack)",
+  "version": "3.6.4",
+  "publisher": "Victor H.",
   "main": "./out/extension.js",
   "engines": {
     "vscode": "^1.63.0"

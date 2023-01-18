@@ -360,6 +360,8 @@ const icons: Icon = {
   ...folderIcon("folder_rust_open"),
   ...folderIcon("folder_next"),
   ...folderIcon("folder_next_open"),
+  ...folderIcon("folder_react-components"),
+  ...folderIcon("folder_react-components_open"),
   ...icon("abc"),
   ...icon("azure-pipelines"),
   ...icon("astro"),
@@ -744,6 +746,16 @@ const icons: Icon = {
   ...icon("turborepo"),
   ...icon("steadybit"),
   ...icon("tobi"),
+  ...icon("nest-controller"),
+  ...icon("nest-decorator"),
+  ...icon("nest-filter"),
+  ...icon("nest-gateway"),
+  ...icon("nest-guard"),
+  ...icon("nest-middleware"),
+  ...icon("nest-module"),
+  ...icon("nest-pipe"),
+  ...icon("nest-service"),
+  ...icon("styles"),
 };
 
 export default icons;

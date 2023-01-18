@@ -649,4 +649,6 @@ export default {
   "yarn-error.log": "_f_yarn",
   ".yarnrc.yml": "_f_yarn",
   ".yarnrc.yaml": "_f_yarn",
+  "styles.ts": "_f_styles",
+  "styles.js": "_f_styles"
 };
